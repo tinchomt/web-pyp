@@ -31,3 +31,12 @@
 	background-color: #23b6b7;
 	border-color: #23b6b7;
 }
+.bg-2 {
+      background-color: #23b6b7; /* Dark Blue */
+      color: #ffffff;
+  }
+
+  .font-asap{
+
+    font-family: 'Asap', sans-serif;
+  }
